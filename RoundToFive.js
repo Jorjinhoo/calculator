@@ -1,6 +1,4 @@
 
-
-
 export function roundToFive(num) {
   const str = num.toString(); 
   const decimalIndex = str.indexOf('.'); 
